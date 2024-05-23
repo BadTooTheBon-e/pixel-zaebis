@@ -1,0 +1,202 @@
+body {
+    background-color: #FFFFFF;
+}
+
+.section {
+    background: #FFFFFF;
+}
+
+header{
+    background: #FFFFFF;
+}
+
+.h1 {
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 67.2px;
+}
+
+.h2 {
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 57.6px;
+}
+
+.h3 {
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+}
+
+.h4 {
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 41.6px;
+}
+
+.h5 {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 33.6px;
+}
+
+.h6 {
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 28px;
+}
+
+.p
+
+.p--lagre {
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 30px;
+}
+
+.p--large-extra-bold {
+    font-weight: 800;
+}
+
+.p--large-bold {
+    font-weight: 700;
+}
+
+.p--large-semi-bold {
+    font-weight: 600;
+}
+
+.p--large-medium {
+    font-weight: 500;
+}
+
+.p--large-normal {
+    font-weight: 400;
+}
+
+.p--large-ligth {
+    font-weight: 300;
+}
+
+.p--medium {
+
+    font-size: 18px;
+    line-height: 27px;
+}
+
+.p--medium-extra-bold {
+    font-weight: 700;
+}
+
+.p--medium-bold {
+    font-weight: 650;
+}
+
+.p--medium-semi-bold {
+    font-weight: 600;
+}
+
+.p--medium-medium {
+    font-weight: 500;
+}
+
+.p--medium-normal {
+    font-weight: 400;
+}
+
+.p--medium-light {
+    font-weight: 300;
+}
+
+.p--regular {
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.p--regular-extra-bold {
+    font-weight: 800;
+}
+
+.p--regular-bold {
+    font-weight: 700;
+}
+
+.p--regular-semi-bold {
+    font-weight: 600;
+}
+
+.p--regular-medium {
+    font-weight: 500;
+}
+
+.p--regular-normal {
+    font-weight: 400;
+}
+
+.p--regular-light {
+    font-weight: 300;
+}
+
+.p--small {
+    font-size: 14px;
+    line-height: 21px;
+}
+
+.p--small-extra-bold {
+    font-weight: 800;
+}
+
+.p--small-bold {
+    font-weight: 700;
+}
+
+.p--small-semi-bold {
+    font-weight: 600;
+}
+
+.p--small-medium {
+    font-weight: 500;
+}
+
+.p--small-normal {
+    font-weight: 400;
+}
+
+.p--small-light {
+    font-weight: 300;
+}
+
+.p--tiny {
+    font-size: 12px;
+    font-weight: 800;
+    line-height: 18px;
+}
+
+.p--tiny-exrta-bold {
+    font-weight: 800;
+}
+
+.p--tiny-bold {
+    font-weight: 700;
+}
+
+.p--tiny-semi-bold {
+    font-weight: 600;
+}
+
+.p--tiny-medium {
+    font-weight: 500;
+}
+
+.p--tiny-normal {
+    font-weight: 400;
+}
+
+.p--tiny-light {
+    font-weight: 300;
+}
+
+.button {
+    border: 1px solid transparent;
+    padding: 7px 20px;
+}

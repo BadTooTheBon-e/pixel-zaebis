@@ -1,0 +1,53 @@
+.section {
+    background: #fff;
+}
+
+.wrapper-logo-key-bar {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    padding: 16px 64px;
+}
+
+.logo{
+    padding: 10px 0px 0px 0px;
+}
+
+.log-bar {
+    display: flex;
+    gap: 16px;
+}
+
+.key-bar {
+    display: flex;
+    flex-direction: row;
+    gap: 32px;
+}
+
+.wrp-key{
+    padding: 10px 32px 24px 0px;
+}
+
+.gap-key {
+    display: flex;
+}
+
+.link {
+    display: flex;
+    gap: 32px;
+}
+.bttn {
+    text-decoration: none;
+    border: 1px solid #5d819f;
+    border-radius: 0%;
+    padding: 8px 20px;
+}
+
+.bttn--mod {
+    color: #fff;
+    background: #000;
+    border: 1px solid #ffffff;
+    padding: 8px 20px;
+}
+
+
